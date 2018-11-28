@@ -1,0 +1,14 @@
+{
+  "name": "googledriveapi_partial_image_upload",
+  "version": "1.0.0",
+  "description": "upload images to google drive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^35.0.0"
+  }
+}
